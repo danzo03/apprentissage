@@ -1,0 +1,43 @@
+body{margin:0px;
+padding: 0px;
+/*background-color: black;*/
+}
+
+.div1{
+	margin:100px;
+	
+	background-color: white;
+	height: 500px;
+	box-shadow: 5px 5px 20px grey;
+
+}
+
+h1{
+	font-size: 45px;
+	font-family: sans-serif;
+}
+.button .button1{
+	height: 30px;
+	width: 300px;
+	font-size: 20px;
+	border-radius: 2em;
+	background-color: #1421e0;
+	color: white;
+	cursor: pointer;
+}
+
+.button2{
+	height: 30px;
+	width: 355px;
+	font-size: 20px;
+	border-radius: 2em;
+	background-color: #f03235;
+	color: white;
+	cursor: pointer;
+
+
+}
+input{
+	width: 350px;
+	height: 25px;
+}
