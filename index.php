@@ -1,4 +1,5 @@
 <?php
+//apprentissage des variables de sessions
 session_start();//pour commencer a gerer des clients toujours utiliser session start
 	if(isset($_SESSION['id'])){//si la session de l'utilisateur existe conduire a log.php
 		header('location:log.php');
