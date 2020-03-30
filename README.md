@@ -1,2 +1,5 @@
 # apprentissage
- dfghjkl
+ 
+##SMINTH BY SMOOTH
+
+##MY COLLABORATEUR IS JUNIOR
