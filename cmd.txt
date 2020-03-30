@@ -1,0 +1,7 @@
+dans cmd git clone lien// permet de telecharger un projet
+git fetch pour aller sur github et synchroniser les codes
+git status pour comparer les changements 
+git commit -m "modification de index"pour soumettre les modifications
+git push -u origin master 
+git branch
+git add "ajouter un fichier au fichier .git"
